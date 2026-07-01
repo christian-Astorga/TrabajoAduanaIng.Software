@@ -13,4 +13,4 @@ Este repositorio contiene el prototipo funcional y la documentación técnica de
 * **RF5:** Reportes Estadísticos y Cuadro de Mando Operativo (Dashboard).
 
 ## 📊 Calidad de Software (ISO 25000)
-Toda la documentación de los **Casos de Prueba** probados exitosamente en el prototipo y la **Planilla de Control de Cambios** estructurales se encuentran dentro de la carpeta `/docs`.
+Toda la documentación de los **Casos de Prueba** probados exitosamente en el prototipo y la **Planilla de Control de Cambios** estructurales estan en este repositorio.
