@@ -3,7 +3,7 @@
 Este repositorio contiene el prototipo funcional y la documentación técnica de calidad de software para la Situación Evaluativa 1.
 
 ## 🚀 Enlaces del Proyecto
-* **Link al Prototipo Interactivo en Figma:** [PEGA_AQUÍ_TU_LINK_DE_FIGMA]
+* **Link al Prototipo Interactivo en Figma:**https://www.figma.com/design/Ul9Y6viKMGxCH2xEGy3V2p/Trabajo-Aduana-Prueba-Parcial-3?node-id=0-1&p=f&t=0Tcxognb1qdnAr6a-0
 
 ## 🛠️ Requisitos Funcionales Implementados (RF)
 * **RF1:** Registro y Validación de Menores de Edad (Autorización Notarial).
