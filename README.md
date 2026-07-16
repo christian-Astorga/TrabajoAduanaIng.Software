@@ -1,6 +1,6 @@
 #  Sistema de Control Fronterizo - Paso Los Libertadores
 
-Este repositorio contiene el prototipo funcional y la documentación técnica de calidad de software para la Situación Evaluativa 1.
+Este repositorio contiene el prototipo funcional y la documentación técnica de calidad de software para la Situación Evaluativa 1, y continua para presentar el Examen Transversal
 
 ##  Enlaces del Proyecto
 Link al Prototipo Interactivo en Figma: https://www.figma.com/design/Ul9Y6viKMGxCH2xEGy3V2p/Trabajo-Aduana-Prueba-Parcial-3?node-id=0-1&t=Twe98WZgOcgmX3il-1
